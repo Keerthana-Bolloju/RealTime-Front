@@ -1,0 +1,36 @@
+.p-3.text-white.textCapitalize.textCenter{
+    background-color: darkgoldenrod;
+  }
+  
+  ul li{
+    list-style-type: none !important;
+  }
+
+  .bg-darkgoldenrod{
+    background-color: darkgoldenrod;
+    color:#ffffff;
+  }
+  
+  div.modal-body input{
+      color: #000000;
+      background: #ffffff;
+      width: 100%;
+      padding: 0.6em;
+  }
+  
+  div.modal.fade.show {
+    background: rgba(0,0,0,0.89) !important;
+  }
+  
+  .nav-tabs .nav-link {
+    font-size: 0.85rem
+}
+.list.dropdown-menu{
+  background-color: #996515;
+}
+
+.modal-open {
+  overflow: hidden;
+  padding-right: 0 !important;
+}
+  
